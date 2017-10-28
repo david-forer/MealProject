@@ -18,6 +18,15 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+gem 'bootstrap-sass'
+gem 'devise'
+gem 'jquery-turbolinks'
+gem 'jquery-rails'
+gem 'font-awesome-rails' # Font-awesome icon
+gem 'mail_form' #Forms, mail
+gem 'simple_form' #Forms, mail
+
+
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
